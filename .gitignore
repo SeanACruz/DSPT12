@@ -1,0 +1,6 @@
+venv
+build
+dist
+dspt12_Sean.egg-info
+*.egg_info
+.idea
